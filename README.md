@@ -23,13 +23,24 @@ This article is a stub. You can help me by [expanding it.](https://github.com/bf
 
 ## Libraries and Frameworks
 
+Code meant become part of the WebExtension
+
 - [chrome-options](https://github.com/fent/chrome-options) - An API to create simple and modern Options pages
+- [chrome-promise](https://github.com/tfoxy/chrome-promise) - Promised version of `chrome.*` callback-style functions
 
 ## Tools
 
+Apps that help you manage the WebExtensions
+
 - [Chrome Webstore Upload](https://github.com/DrewML/chrome-webstore-upload-cli) - Upload the extension to the Chrome Web Store via cli (or on Travis, automatically)
+- [mozilla/Web-ext](https://github.com/mozilla/web-ext) Command line tool to help build, run, and test web extensions.
 - [Extensionizr](http://extensionizr.com/) - A web UI that helps you create an initial configuration and files
 - [chromepet](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published
+- [inline-install](https://github.com/alykoshin/inline-install) - Simplify the installation of the extension directly from your website
+- [wemf](https://github.com/pastak/wemf) - Format and validate `manifest.json`
+- [maniver](https://github.com/ragingwind/maniver) - Bump the extension version via cli
+- [chrome-ext-downloader](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it
+- [chrome-i18n](https://github.com/Ragnarokkr/chrome-i18n) - Helps build a locales database from some project files
 
 ## Sample Extensions
 
@@ -37,7 +48,7 @@ These are simple and modern WebExtensions repositories that could help you figur
 
 - [npm-hub](https://github.com/zeke/npm-hub)
 - [Sticky Pinned Tabs](https://github.com/bfred-it/sticky-pinned-tabs)
-
+- [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github)
 
 ## License
 
