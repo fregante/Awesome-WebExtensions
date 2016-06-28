@@ -6,13 +6,6 @@ This article is a stub. You can help me by [expanding it.](https://github.com/bf
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
-## Contents
-
-- [Getting Started](#getting-started)
-- [Library and Frameworks](#libraries-and-frameworks)
-- [Tools](#tools)
-- [Sample Extensions](#sample-extensions)
-
 ## Getting started
 
 - [Chrome Extensions documentation](https://developer.chrome.com/extensions)
