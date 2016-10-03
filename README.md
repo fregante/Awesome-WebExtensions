@@ -12,6 +12,12 @@
 - [Mozilla's WebExtensions implementation status](http://arewewebextensionsyet.com/) - WebExtensions are not yet fully compatible/implemented in Firefox, this helps you see what isn't
 - [Guide to port a Chrome Extension to work in Firefox](https://hacks.mozilla.org/2015/10/porting-chrome-extensions-to-firefox-with-webextensions/)
 
+## API Compatiblity Across Browsers
+
+- [Mozilla Firefox](http://arewewebextensionsyet.com/)
+- [Opera](https://dev.opera.com/extensions/apis/)
+- [Microsoft Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/api-support/supported-apis/)
+
 ## Libraries and Frameworks
 
 Code meant become part of the WebExtension
