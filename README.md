@@ -34,6 +34,13 @@ Apps that help you manage the WebExtensions
 - [chrome-ext-downloader](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it
 - [chrome-i18n](https://github.com/Ragnarokkr/chrome-i18n) - Helps build a locales database from some project files
 
+## Boilerplates
+
+- [extensionizr.com](http://extensionizr.com/) - Basic Boilerplate
+- [generator-chrome-extension](https://github.com/yeoman/generator-chrome-extension) - Boilerplate based on gulp & babel
+- [generator-chrome-extension-kickstart](https://github.com/handtrix/generator-chrome-extension-kickstart) - Flexible Boilerplate based on gulp, webpack & babel
+- [react-chrome-extension-boilerplate](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading
+
 ## Sample Extensions
 
 These are simple and modern WebExtensions repositories that could help you figure out where pieces go, including automatic deployment via Travis CI
