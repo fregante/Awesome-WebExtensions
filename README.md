@@ -17,7 +17,8 @@
 
 Code meant become part of the WebExtension
 
-- [chrome-options](https://github.com/fent/chrome-options) - An API to create simple and modern Options pages
+- [webext-options-sync](https://github.com/bfred-it/webext-options-sync) - Helps you manage and autosave your extension's options.
+- [webext-inject-on-install](https://github.com/bfred-it/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed. Chrome + Firefox
 - [chrome-promise](https://github.com/tfoxy/chrome-promise) - Promised version of `chrome.*` callback-style functions
 
 ## Tools
