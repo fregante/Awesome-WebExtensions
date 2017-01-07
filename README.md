@@ -4,6 +4,14 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
+## Contents
+
+- [Getting Started](#getting-started) - Code meant become part of the extension
+- [Libraries and Frameworks](#libraries-and-frameworks) - Apps that help you manage your extensions
+- [Tools](#tools)
+- [Boilerplates](#boilerplates)
+- [Sample Extensions](#sample-extensions)
+
 ## Getting started
 
 - [Chrome Extensions documentation](https://developer.chrome.com/extensions)
@@ -15,7 +23,7 @@
 
 ## Libraries and Frameworks
 
-Code meant become part of the WebExtension
+Code meant become part of the extension
 
 - [webext-options-sync](https://github.com/bfred-it/webext-options-sync) - Helps you manage and autosave your extension's options.
 - [webext-inject-on-install](https://github.com/bfred-it/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed. Chrome + Firefox
@@ -23,7 +31,7 @@ Code meant become part of the WebExtension
 
 ## Tools
 
-Apps that help you manage the WebExtensions
+Apps that help you manage your extensions
 
 - [Chrome Webstore Upload](https://github.com/DrewML/chrome-webstore-upload-cli) - Upload the extension to the Chrome Web Store via cli (or on Travis, automatically)
 - [mozilla/Web-ext](https://github.com/mozilla/web-ext) Command line tool to help build, run, and test web extensions.
