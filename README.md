@@ -1,4 +1,4 @@
-# Awesome WebExtensions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+# Awesome WebExtensions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome resources for [WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) development.
 
@@ -42,6 +42,11 @@ Apps that help you manage your extensions.
 - [maniver](https://github.com/ragingwind/maniver) - Bump the extension version via cli.
 - [chrome-ext-downloader](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it.
 - [chrome-i18n](https://github.com/Ragnarokkr/chrome-i18n) - Helps build a locales database from some project files.
+
+## Testing
+
+- [sinon-chrome](https://github.com/acvetkov/sinon-chrome) - Mocks the chrome extensions API for testing
+- [chrome-stub](https://github.com/gcochard/chrome-stub) - Stubs the chrome API for testing
 
 ## Boilerplates
 
