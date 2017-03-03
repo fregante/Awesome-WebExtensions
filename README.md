@@ -45,8 +45,7 @@ Apps that help you manage your extensions.
 
 ## Testing
 
-- [sinon-chrome](https://github.com/acvetkov/sinon-chrome) - Mocks the chrome extensions API for testing
-- [chrome-stub](https://github.com/gcochard/chrome-stub) - Stubs the chrome API for testing
+- [sinon-chrome](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing.
 
 ## Boilerplates
 
