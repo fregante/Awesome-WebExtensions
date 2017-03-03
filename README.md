@@ -1,4 +1,4 @@
-# Awesome WebExtensions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+# Awesome WebExtensions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome resources for [WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) development.
 
@@ -45,6 +45,10 @@ Apps that help you manage your extensions.
 - [chrome-store-api](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.
 - [crx2ff](https://github.com/abarreir/crx2ff/) - Check the compatibility of a Chrome extension with the Firefox WebExtensions API.
 - [chromereload](https://github.com/HaNdTriX/chromereload) - Auto-reload your extension during development.
+
+## Testing
+
+- [sinon-chrome](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing.
 
 ## Boilerplates
 
