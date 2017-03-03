@@ -16,6 +16,7 @@ WebExtensions are a cross-browser system for developing browser add-ons. To a la
 
 - [Chrome Extensions documentation](https://developer.chrome.com/extensions)
 - [Chrome Extensions API](https://developer.chrome.com/extensions/api_index)
+- [Opera's suported WebExtension API list](https://dev.opera.com/extensions/apis/)
 - [Mozilla's WebExtensions documentation](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
 - [Mozilla's WebExtensions implementation status](http://arewewebextensionsyet.com/) - WebExtensions are not yet fully compatible/implemented in Firefox, this helps you see what isn't.
 - [Microsoft Edge WebExtension API roadmap](https://docs.microsoft.com/en-us/microsoft-edge/extensions/api-support/extension-api-roadmap)
