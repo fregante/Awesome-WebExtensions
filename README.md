@@ -25,6 +25,7 @@ WebExtensions are a cross-browser system for developing browser add-ons. To a la
 
 Code meant become part of the extension.
 
+- [global-chrome](https://github.com/erikvold/global-chrome) - Easiest way to import the `chrome` api.
 - [webext-options-sync](https://github.com/bfred-it/webext-options-sync) - Helps you manage and autosave your extension's options.
 - [webext-inject-on-install](https://github.com/bfred-it/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed. Chrome + Firefox.
 - [chrome-promise](https://github.com/tfoxy/chrome-promise) - Promised version of `chrome.*` callback-style functions.
