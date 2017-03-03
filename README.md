@@ -20,6 +20,7 @@ WebExtensions are a cross-browser system for developing browser add-ons. To a la
 - [Mozilla's WebExtensions implementation status](http://arewewebextensionsyet.com/) - WebExtensions are not yet fully compatible/implemented in Firefox, this helps you see what isn't.
 - [Support for Chrome & WebExtension APIs across Browsers](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs)
 - [Guide to port a Chrome Extension to work in Firefox](https://hacks.mozilla.org/2015/10/porting-chrome-extensions-to-firefox-with-webextensions/)
+- [Brave Browser WebExtension Developer Notes](https://github.com/brave/browser-laptop/wiki/Developer-Notes-on-Installing-or-Updating-Extensions)
 
 ## Libraries and Frameworks
 
