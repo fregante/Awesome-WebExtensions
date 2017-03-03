@@ -49,6 +49,7 @@ Apps that help you manage your extensions.
 ## Testing
 
 - [sinon-chrome](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing.
+- [addons-validator](https://github.com/mozilla/addons-validator) - Validate an extension against Mozilla's guidelines.
 
 ## Boilerplates
 
