@@ -43,6 +43,8 @@ Apps that help you manage your extensions.
 - [chrome-ext-downloader](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it.
 - [chrome-i18n](https://github.com/Ragnarokkr/chrome-i18n) - Helps build a locales database from some project files.
 - [chrome-store-api](https://github.com/acvetkov/chrome-store-api) - Chrome Webstore API wrapper.
+- [crx2ff](https://github.com/abarreir/crx2ff/) - Check the compatibility of a Chrome extension with the Firefox WebExtensions API.
+- [chromereload](https://github.com/HaNdTriX/chromereload) - Auto-reload your extension during development.
 
 ## Boilerplates
 
