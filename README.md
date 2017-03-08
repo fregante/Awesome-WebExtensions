@@ -14,14 +14,14 @@ WebExtensions are a cross-browser system for developing browser add-ons. To a la
 
 ## Getting started
 
-- [Chrome Extensions documentation](https://developer.chrome.com/extensions)
-- [Chrome Extensions API](https://developer.chrome.com/extensions/api_index)
-- [Opera's suported WebExtension API list](https://dev.opera.com/extensions/apis/)
-- [Mozilla's WebExtensions documentation](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
-- [Mozilla's WebExtensions implementation status](http://arewewebextensionsyet.com/) - WebExtensions are not yet fully compatible/implemented in Firefox, this helps you see what isn't.
-- [Microsoft Edge WebExtension API roadmap](https://docs.microsoft.com/en-us/microsoft-edge/extensions/api-support/extension-api-roadmap)
-- [Support for Chrome & WebExtension APIs across Browsers](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs)
-- [Guide to port a Chrome Extension to work in Firefox](https://hacks.mozilla.org/2015/10/porting-chrome-extensions-to-firefox-with-webextensions/)
+- [Chrome Extensions documentation](https://developer.chrome.com/extensions) - Documentation for the original Chrome extension model.
+- [Chrome Extensions API](https://developer.chrome.com/extensions/api_index) - Comprehensive documentation on the original API provided by Chrome.
+- [Mozilla's WebExtensions documentation](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) - MDN wiki for the WebExtensions API.
+- [Browser support for WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs) - Compatibility table for Chrome, Edge, Firefox, and Opera.
+- [Mozilla Firefox API support](http://arewewebextensionsyet.com/) - Detailed WebExtensions support for Firefox.
+- [Microsoft Edge API support](https://docs.microsoft.com/en-us/microsoft-edge/extensions/api-support/extension-api-roadmap) - Detailed WebExtensions support for Edge.
+- [Opera API support](https://dev.opera.com/extensions/apis/) - Detailed WebExtensions support for Opera.
+- [Porting Chrome Extensions to Firefox](https://hacks.mozilla.org/2015/10/porting-chrome-extensions-to-firefox-with-webextensions/) - Guide to prepare, install, and debug Chrome extensions to be ported in Firefox.
 
 ## Libraries and Frameworks
 
