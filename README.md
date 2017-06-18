@@ -7,6 +7,7 @@ WebExtensions are a cross-browser system for developing browser add-ons. To a la
 ## Contents
 
 - [Getting Started](#getting-started)
+- [Community](#community)
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [Tools](#tools)
 - [Boilerplates](#boilerplates)
@@ -22,6 +23,23 @@ WebExtensions are a cross-browser system for developing browser add-ons. To a la
 - [Microsoft Edge API support](https://docs.microsoft.com/en-us/microsoft-edge/extensions/api-support/extension-api-roadmap) - Detailed WebExtensions support for Edge.
 - [Opera API support](https://dev.opera.com/extensions/apis/) - Detailed WebExtensions support for Opera.
 - [Porting Chrome Extensions to Firefox](https://hacks.mozilla.org/2015/10/porting-chrome-extensions-to-firefox-with-webextensions/) - Guide to prepare, install, and debug Chrome extensions to be ported in Firefox.
+
+## Community
+
+### Chrome
+
+- [Google Groups](https://groups.google.com/a/chromium.org/forum/#!forum/chromium-extensions) - Discussions.
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/google-chrome-extension) - Relevant questions.
+
+### Firefox
+
+- [Mailinglist](https://mail.mozilla.org/listinfo/dev-addons) - Discussions.
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/firefox-webextensions) - Relevant questions.
+- [`#webextensions`](https://wiki.mozilla.org/IRC) - IRC.
+
+### Edge
+
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/microsoft-edge-extension) - Relevant questions.
 
 ## Libraries and Frameworks
 
