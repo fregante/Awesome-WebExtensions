@@ -68,6 +68,7 @@ These are simple and modern WebExtensions repositories that could help you figur
 - [npm-hub](https://github.com/zeke/npm-hub)
 - [Sticky Pinned Tabs](https://github.com/bfred-it/sticky-pinned-tabs)
 - [Dim Files on GitHub](https://github.com/bfred-it/dim-files-on-github)
+- [Refined GitHub](https://github.com/sindresorhus/refined-github)
 
 ## License
 
