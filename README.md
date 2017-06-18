@@ -23,6 +23,23 @@ WebExtensions are a cross-browser system for developing browser add-ons. To a la
 - [Opera API support](https://dev.opera.com/extensions/apis/) - Detailed WebExtensions support for Opera.
 - [Porting Chrome Extensions to Firefox](https://hacks.mozilla.org/2015/10/porting-chrome-extensions-to-firefox-with-webextensions/) - Guide to prepare, install, and debug Chrome extensions to be ported in Firefox.
 
+## Community
+
+### Google Chrome
+
+- [chrome-extensions google group](https://groups.google.com/a/chromium.org/group/chromium-extensions)
+
+### Mozilla Firefox
+
+- [dev-addons mailing list](https://mail.mozilla.org/listinfo/dev-addons)
+- [#webextensions](irc://irc.mozilla.org/webextensions) on [IRC](https://wiki.mozilla.org/IRC)
+
+### StackOverflow
+
+- [`google-chrome-extension` tag](http://stackoverflow.com/questions/tagged/google-chrome-extension)
+- [`microsoft-edge-extension` tag](http://stackoverflow.com/questions/tagged/microsoft-edge-extension)
+- [`firefox-webextensions` tag](http://stackoverflow.com/questions/tagged/firefox-webextensions)
+
 ## Libraries and Frameworks
 
 Code meant become part of the extension.
