@@ -19,7 +19,7 @@ WebExtensions are a cross-browser system for developing browser add-ons. To a la
 - [Chrome Extensions API](https://developer.chrome.com/extensions/api_index) - Comprehensive documentation on the original API provided by Chrome.
 - [Mozilla's WebExtensions documentation](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) - MDN wiki for the WebExtensions API.
 - [Browser support for WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs) - Compatibility table for Chrome, Edge, Firefox, and Opera.
-- [Mozilla Firefox API support](http://arewewebextensionsyet.com/) - Detailed WebExtensions support for Firefox.
+- [Mozilla Firefox API support](http://arewewebextensionsyet.com) - Detailed WebExtensions support for Firefox.
 - [Microsoft Edge API support](https://docs.microsoft.com/en-us/microsoft-edge/extensions/api-support/extension-api-roadmap) - Detailed WebExtensions support for Edge.
 - [Opera API support](https://dev.opera.com/extensions/apis/) - Detailed WebExtensions support for Opera.
 - [Porting Chrome Extensions to Firefox](https://hacks.mozilla.org/2015/10/porting-chrome-extensions-to-firefox-with-webextensions/) - Guide to prepare, install, and debug Chrome extensions to be ported in Firefox.
@@ -56,7 +56,6 @@ Apps that help you manage your extensions.
 
 - [Chrome Webstore Upload](https://github.com/DrewML/chrome-webstore-upload-cli) - Upload the extension to the Chrome Web Store via cli (or on Travis, automatically).
 - [mozilla/Web-ext](https://github.com/mozilla/web-ext) Command line tool to help build, run, and test WebExtensions.
-- [Extensionizr](http://extensionizr.com/) - Web UI that helps you create an initial configuration and files.
 - [chromepet](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published.
 - [inline-install](https://github.com/alykoshin/inline-install) - Simplify the installation of the extension directly from your website.
 - [wemf](https://github.com/pastak/wemf) - Format and validate `manifest.json`.
@@ -74,7 +73,7 @@ Apps that help you manage your extensions.
 
 ## Boilerplates
 
-- [extensionizr.com](http://extensionizr.com/) - Basic Boilerplate.
+- [extensionizr.com](http://extensionizr.com) - Web UI that helps you create an initial configuration and files.
 - [generator-chrome-extension](https://github.com/yeoman/generator-chrome-extension) - Boilerplate based on gulp & babel.
 - [generator-chrome-extension-kickstart](https://github.com/handtrix/generator-chrome-extension-kickstart) - Flexible Boilerplate based on gulp, webpack & babel.
 - [react-chrome-extension-boilerplate](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading.
