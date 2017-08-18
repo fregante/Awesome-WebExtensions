@@ -34,6 +34,7 @@ WebExtensions are a cross-browser system for developing browser add-ons. To a la
 ### Firefox
 
 - [Mailinglist](https://mail.mozilla.org/listinfo/dev-addons) - Discussions.
+- [Mozilla Discourse](https://discourse.mozilla.org/c/add-ons) - Discussions.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/firefox-webextensions) - Relevant questions.
 - [`#webextensions`](https://wiki.mozilla.org/IRC) - IRC.
 
