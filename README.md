@@ -66,6 +66,7 @@ Apps that help you manage your extensions.
 - [chrome-store-api](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.
 - [crx2ff](https://github.com/abarreir/crx2ff/) - Check the compatibility of a Chrome extension with the Firefox WebExtensions API.
 - [chromereload](https://github.com/HaNdTriX/chromereload) - Auto-reload your extension during development.
+- [ExtStoreTools](https://github.com/Mte90/ExtStoreStats) - Download the statistics of download from Firefox and Chrome with graphs
 
 ## Testing
 
