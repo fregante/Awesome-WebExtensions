@@ -51,7 +51,7 @@ Code meant become part of the extension.
 - [webext-inject-on-install](https://github.com/bfred-it/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed. Chrome + Firefox.
 - [chrome-promise](https://github.com/tfoxy/chrome-promise) - Promised version of `chrome.*` callback-style functions.
 - [redux-webext](https://github.com/ivantsov/redux-webext) - Uses [redux](https://github.com/reactjs/redux) for managing the state of your WebExtension
-- [webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - Polyfill to support the standardized promise based API in the `browser` namespace.
+- [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - Polyfill to support the standardized promise based API in the `browser` namespace.
 
 ## Tools
 
@@ -76,6 +76,7 @@ Apps that help you manage your extensions.
 
 ## Boilerplates
 
+- [create-webextension](https://github.com/rpl/create-webextension) - Yarn webextension generator.
 - [extensionizr.com](http://extensionizr.com) - Web UI that helps you create an initial configuration and files.
 - [generator-chrome-extension](https://github.com/yeoman/generator-chrome-extension) - Boilerplate based on gulp & babel.
 - [generator-chrome-extension-kickstart](https://github.com/handtrix/generator-chrome-extension-kickstart) - Flexible Boilerplate based on gulp, webpack & babel.
@@ -89,6 +90,7 @@ These are simple and modern WebExtensions repositories that could help you figur
 - [Sticky Pinned Tabs](https://github.com/bfred-it/sticky-pinned-tabs)
 - [Dim Files on GitHub](https://github.com/bfred-it/dim-files-on-github)
 - [Refined GitHub](https://github.com/sindresorhus/refined-github)
+- [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation.
 
 ## License
 
