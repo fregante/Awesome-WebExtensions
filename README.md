@@ -55,6 +55,7 @@ Apps that help you manage your extensions.
 - [unzip-crx](https://github.com/peerigon/unzip-crx) - Unzips Google Chrome (crx) files.
 - [chrome-store-api](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.
 - [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) - WebExtension to view source code of extensions directly on the store.
+- [Webextension-Toolbox](https://github.com/HaNdTriX/webextension-toolbox) -  Small cli toolbox for creating cross-browser WebExtensions.
 
 ## Testing
 
