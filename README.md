@@ -55,6 +55,7 @@ Apps that help you manage your extensions.
 - [chrome-store-api](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.
 - [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) - WebExtension to view source code of extensions directly on the store.
 - [@wext/shipit](https://github.com/LinusU/wext-shipit) - Tool to automatically publish to Goole Webstore, Mozilla Addons and Opera Addons.
+- [Webpack Chrome Extension Reloader](https://github.com/rubenspgcavalcante/webpack-chrome-extension-reloader) - A Webpack plugin to enable hot reloading while developing Chrome extensions.
 
 ## Testing
 
