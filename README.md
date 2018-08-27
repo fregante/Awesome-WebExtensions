@@ -55,7 +55,7 @@ Apps that help you manage your extensions.
 - [chrome-store-api](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.
 - [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) - WebExtension to view source code of extensions directly on the store.
 - [@wext/shipit](https://github.com/LinusU/wext-shipit) - Tool to automatically publish to Chrome Web Store, Mozilla Addons and Opera Addons.
-- [webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small cli toolbox for  cross-browser WebExtension development.
+- [webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small cli toolbox for cross-browser WebExtension development.
 
 ## Testing
 
