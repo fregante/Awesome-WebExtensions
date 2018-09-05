@@ -36,12 +36,13 @@ WebExtensions are a cross-browser system for developing browser add-ons. To a la
 
 ## Libraries and Frameworks
 
-Code meant become part of the extension.
+Code meant to become part of the extension.
 
 - [webext-options-sync](https://github.com/bfred-it/webext-options-sync) - Helps you manage and autosave your extension's options.
 - [webext-inject-on-install](https://github.com/bfred-it/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed. Chrome + Firefox.
 - [redux-webext](https://github.com/ivantsov/redux-webext) - Uses [redux](https://github.com/reactjs/redux) for managing the state of your WebExtension
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - Polyfill to support the standardized promise based API in the `browser` namespace.
+- [native-ext](https://github.com/NiklasGollenstede/native-ext) - A node.js endpoint for Chrome and Firefox to connect to via Native Messaging
 
 ## Tools
 
