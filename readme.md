@@ -63,11 +63,12 @@ Apps that help you manage your extensions.
 - [addons-validator](https://github.com/mozilla/addons-validator) - Validate an extension against Mozilla's guidelines.
 
 ## Boilerplates
-
+- [react-extension-boilerplate](https://github.com/kryptokinght/react-extension-boilerplate) - :rocket: Modern React boilerplate for Firefox and Chrome extensions.
 - [create-webextension](https://github.com/rpl/create-webextension) - Yarn WebExtension generator.
 - [extensionizr.com](http://extensionizr.com) - Web UI that helps you create an initial configuration and files.
 - [generator-web-extension](https://github.com/HaNdTriX/generator-web-extension) - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 - [react-chrome-extension-boilerplate](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading.
+
 
 ## Sample Extensions
 
