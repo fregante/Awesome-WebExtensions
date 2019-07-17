@@ -68,6 +68,7 @@ Apps that help you manage your extensions.
 - [extensionizr.com](http://extensionizr.com) - Web UI that helps you create an initial configuration and files.
 - [generator-web-extension](https://github.com/HaNdTriX/generator-web-extension) - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 - [react-chrome-extension-boilerplate](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading.
+- [Extension Boilerplate](https://github.com/EmailThis/extension-boilerplate) - A template for building cross browser extensions for Chrome, Opera & Firefox.
 
 ## Sample Extensions
 
