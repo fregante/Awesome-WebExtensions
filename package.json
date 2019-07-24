@@ -1,4 +1,5 @@
 {
+  "repository": "fregante/Awesome-WebExtensions",
   "scripts": {
     "test": "awesome-lint"
   },
