@@ -64,6 +64,7 @@ Apps that help you manage your extensions.
 
 ## Boilerplates
 
+- [browser-extension-template](https://github.com/notlmn/browser-extension-template) - Barebones boilerplate with webpack, options handler and auto-publishing.
 - [create-webextension](https://github.com/rpl/create-webextension) - Yarn WebExtension generator.
 - [extensionizr.com](https://extensionizr.com) - Web UI that helps you create an initial configuration and files.
 - [generator-web-extension](https://github.com/HaNdTriX/generator-web-extension) - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
