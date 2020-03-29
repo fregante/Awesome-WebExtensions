@@ -57,6 +57,7 @@ Apps that help you manage your extensions.
 - [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) - WebExtension to view source code of extensions directly on the store.
 - [@wext/shipit](https://github.com/LinusU/wext-shipit) - Tool to automatically publish to Chrome Web Store, Mozilla Addons and Opera Addons.
 - [web-ext-translator](https://github.com/Lusito/web-ext-translator) - Translator tool to manage i18n messages.json.
+- [cwex](https://github.com/XKojiMedia/cwex) - A CLI tool for creating and managing cross-platform browser extensions.
 
 ## Testing
 
