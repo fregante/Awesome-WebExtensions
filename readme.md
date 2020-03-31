@@ -30,7 +30,7 @@ WebExtensions are a cross-browser system for developing browser add-ons. To a la
 
 - [Google Groups](https://groups.google.com/a/chromium.org/forum/#!forum/chromium-extensions) - Discussions.
 - [Mozilla Discourse](https://discourse.mozilla.org/c/add-ons) - Discussions.
-- [`#webextensions`](https://wiki.mozilla.org/IRC) - IRC channel by Mozilla.
+- [`#addons:mozilla.org`](https://matrix.to/#/#addons:mozilla.org) - Matrix channel by Mozilla.
 - [`google-chrome-extension` tag on Stack Overflow](https://stackoverflow.com/questions/tagged/google-chrome-extension) - Relevant questions.
 - [`firefox-webextensions` tag on Stack Overflow](https://stackoverflow.com/questions/tagged/firefox-webextensions) - Relevant questions.
 - [`microsoft-edge-extension` tag on Stack Overflow](https://stackoverflow.com/questions/tagged/microsoft-edge-extension) - Relevant questions.
