@@ -45,6 +45,7 @@ Code meant become part of the extension.
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - Polyfill to support the standardized promise based API in the `browser` namespace.
 - [@types/firefox-webext-browser](https://www.npmjs.com/package/@types/firefox-webext-browser) - Supplies TypeScript types for the `browser` namespace.
 - [redux-webext](https://github.com/ivantsov/redux-webext) - Uses [redux](https://github.com/reactjs/redux) for managing the state of your WebExtension.
+- [ExtPay](https://github.com/Glench/ExtPay) - Take secure payments in extensions without needing to run a server backend.
 
 ## Tools
 
