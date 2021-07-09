@@ -61,10 +61,7 @@ Apps that help you manage your extensions.
 - [@wext/shipit](https://github.com/LinusU/wext-shipit) - Tool to automatically publish to Chrome Web Store, Mozilla Addons and Opera Addons.
 - [wext-manifest-loader](https://github.com/abhijithvijayan/wext-manifest-loader) - Webpack loader that lets you specify `manifest.json` properties to appear only in specific browsers.
 - [webextension-manifest-loader](https://github.com/jsmnbom/webextension-manifest-loader) - Webpack loader that loads browser tailored manifest.json. It also imports all importable properties, allowing you to have 'manifest.json' as your only webpack entry point.
-- [webextension-feedback-popup](https://github.com/nikoisonfire/webext-feedback-popup) - Customizable Popup, that asks a user to leave a rating after a period of using the extension (e.g. 7 days after install). Works for FF, Chrome, Edge and Safari.
 - [webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) - A Webpack plugin to automatically reload browser extensions during development.
-
-
 
 ## Testing
 
