@@ -78,7 +78,7 @@ Apps that help you manage your extensions.
 - [extensionizr.com](https://extensionizr.com) - Web UI that helps you create an initial configuration and files.
 - [generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 - [vue-web-extension](https://github.com/Kocal/vue-web-extension) - A Vue CLI 3+ preset for quickly starting a web extension with Vue, Babel, ESLint and more!
-- [react-ext-boilerplate](https://github.com/Aspedm/react-ext-boilerplate) - React based exntension boilerplate. Created with TS, React, React router, Redux and webextension polyfill
+- [react-ext-boilerplate](https://github.com/Aspedm/react-ext-boilerplate) - React based extension boilerplate. Created with TS, React, React router, Redux and webextension polyfill
 
 ## Sample Extensions
 
