@@ -1,8 +1,6 @@
 name: Links
 
 on:
-  push:
-  pull_request:
   repository_dispatch:
   workflow_dispatch:
   schedule:
@@ -26,4 +24,3 @@ jobs:
         with:
           title: Link Checker Report
           content-filepath: ./lychee/out.md
-          labels: report, automated issue
