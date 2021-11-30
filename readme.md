@@ -1,8 +1,10 @@
 # Awesome WebExtensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome resources for [WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) development.
+> A curated list of awesome resources for WebExtensions development.
 
-WebExtensions are a cross-browser system for developing browser add-ons. To a large extent the system is compatible with the [extension API](https://developer.chrome.com/docs/extensions/reference) supported by Google Chrome and Opera. Extensions written for these browsers will in most cases run in Firefox or Microsoft Edge with just [a few changes](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_Google_Chrome_extension).
+WebExtensions are a cross-browser system for developing browser add-ons. To a large extent the system is compatible with the extension API supported by Google Chrome. Extensions written for this browser will in most cases run in Firefox with just [a few changes](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_Google_Chrome_extension).
+
+Follow [@fregante](https://fregante.com) for more webext-related news.
 
 ## Contents
 
@@ -60,7 +62,7 @@ Apps that help you manage your extensions.
 - [wext-manifest-loader](https://github.com/abhijithvijayan/wext-manifest-loader) - Webpack loader that lets you specify `manifest.json` properties to appear only in specific browsers.
 - [webextension-manifest-loader](https://github.com/jsmnbom/webextension-manifest-loader) - Webpack loader that loads browser tailored manifest.json. It also imports all importable properties, allowing you to have 'manifest.json' as your only webpack entry point.
 - [webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) - A Webpack plugin to automatically reload browser extensions during development.
-- [webpack-target-webextension](https://github.com/awesome-webextension/webpack-target-webextension) - Adds code-splitting support to WebExtensions build with Webpack
+- [webpack-target-webextension](https://github.com/awesome-webextension/webpack-target-webextension) - Adds code-splitting support to WebExtensions build with Webpack.
 
 ## Testing
 
@@ -86,9 +88,3 @@ These are simple and modern WebExtensions repositories that could help you figur
 - [npmhub](https://github.com/npmhub/npmhub)
 - [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github)
 - [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Federico Brigante](https://fregante.com) has waived all copyright and related or neighboring rights to this work.
