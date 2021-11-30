@@ -1,26 +1,12 @@
-name: Links
-
+name: CI
 on:
-  repository_dispatch:
-  workflow_dispatch:
-  schedule:
-    - cron: "00 1 10 * *"
-
+  pull_request:
+    branches: [main]
 jobs:
-  linkChecker:
+  Awesome_Lint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
-      - name: Link Checker
-        uses: lycheeverse/lychee-action@v1.1.1
         with:
-          args: --verbose --no-progress **/*.md **/*.html
-        env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-
-      - name: Create Issue From File
-        uses: peter-evans/create-issue-from-file@v3
-        with:
-          title: Link Checker Report
-          content-filepath: ./lychee/out.md
+          fetch-depth: 0
+      - run: npx awesome-lint
