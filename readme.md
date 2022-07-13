@@ -46,6 +46,7 @@ Code meant become part of the extension.
 - [@types/firefox-webext-browser](https://www.npmjs.com/package/@types/firefox-webext-browser) - Supplies TypeScript types for the `browser` namespace.
 - [redux-webext](https://github.com/ivantsov/redux-webext) - Uses Redux for managing the state of your WebExtension.
 - [ExtPay](https://github.com/Glench/ExtPay) - Take secure payments in extensions without needing to run a server backend.
+- [inject-react-anywhere](https://github.com/OlegWock/inject-react-anywhere) - Inject React components into 3rd party sites with convenient API and styles isolation.
 - [More…](https://github.com/fregante/webext-fun)
 
 ## Tools
