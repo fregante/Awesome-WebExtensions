@@ -78,7 +78,6 @@ Apps that help you manage your extensions.
 
 - [browser-extension-template](https://github.com/fregante/browser-extension-template) - Barebones boilerplate with parcel, options handler and auto-publishing.
 - [create-webextension](https://github.com/rpl/create-webextension) - Yarn WebExtension generator.
-- [extensionizr.com](https://extensionizr.com) - Web UI that helps you create an initial configuration and files.
 - [generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 - [vue-web-extension](https://github.com/Kocal/vue-web-extension) - A Vue CLI 3+ preset for quickly starting a web extension with Vue, Babel, ESLint and more!
 
