@@ -80,7 +80,8 @@ Apps that help you manage your extensions.
 - [create-webextension](https://github.com/rpl/create-webextension) - Yarn WebExtension generator.
 - [generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 - [vue-web-extension](https://github.com/Kocal/vue-web-extension) - A Vue CLI 3+ preset for quickly starting a web extension with Vue, Babel, ESLint and more!
-
+- [vite-vue3-chrome-extension-v3](https://github.com/mubaidr/vite-vue3-chrome-extension-v3) - A Vite powered WebExtension (Chrome, FireFox, etc.) starter template based on manifest 3, vue3 and vite.
+  
 ## Sample Extensions
 
 These are simple and modern WebExtensions repositories that could help you figure out where pieces go, including automatic deployment via Travis CI.
