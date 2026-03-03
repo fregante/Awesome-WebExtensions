@@ -87,4 +87,5 @@ These are simple and modern WebExtensions repositories that could help you figur
 
 - [npmhub](https://github.com/npmhub/npmhub)
 - [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github)
+- [CiteMe](https://github.com/danielnichiata96/citeme) - AI-powered academic citation generator built with WXT. Searches 11+ databases and formats in 40+ citation styles (Chrome, Firefox, Edge).
 - [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation.
