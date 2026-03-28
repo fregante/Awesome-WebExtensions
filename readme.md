@@ -64,6 +64,7 @@ Apps that help you manage your extensions.
 - [webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) - A Webpack plugin to automatically reload browser extensions during development.
 - [webpack-target-webextension](https://github.com/awesome-webextension/webpack-target-webextension) - Adds code-splitting support to WebExtensions build with Webpack.
 - [Extension.js](https://github.com/cezaraugusto/extension.js) - Plug-and-play, zero-config, cross-browser extension development tool.
+- [LocalePack](https://github.com/seyfer/localepack.app) - Translate extension `messages.json` into 52 languages — generates a ready-to-ship `_locales` ZIP with placeholders and nested keys preserved.
 
 ## Testing
 
