@@ -67,6 +67,7 @@ Apps that help you manage your extensions.
 
 ## Testing
 
+- [FillForge](https://konabayev.com/fillforge/) - QA form filler — auto-fill test data into web forms. Speed up testing and QA workflows.
 - [sinon-chrome](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing.
 - [addons-linter](https://github.com/mozilla/addons-linter) - Validate an extension against Mozilla's guidelines.
 - [webextensions-jsdom](https://github.com/stoically/webextensions-jsdom) - Load popup, sidebar and background with JSDOM based on the manifest.json.
