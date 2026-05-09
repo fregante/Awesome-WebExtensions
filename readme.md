@@ -88,3 +88,4 @@ These are simple and modern WebExtensions repositories that could help you figur
 - [npmhub](https://github.com/npmhub/npmhub)
 - [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github)
 - [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation.
+- [TrueStar](https://www.gettruestar.com) - Re-weight Google Maps restaurant ratings based on your own priorities (food quality, service, price/value, ambiance).
