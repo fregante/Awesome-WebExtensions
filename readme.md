@@ -80,6 +80,7 @@ Apps that help you manage your extensions.
 - [create-webextension](https://github.com/rpl/create-webextension) - Yarn WebExtension generator.
 - [generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 - [WXT](https://github.com/wxt-dev/wxt) - Next-gen framework for developing web extensions
+- [aie-wxt-mantine-surface-template](https://github.com/AIEPhoenix/aie-wxt-mantine-surface-template) - WXT and Mantine boilerplate with shadow-DOM style isolation and a shared UI across popup, options and injected pages.
 
 ## Sample Extensions
 
