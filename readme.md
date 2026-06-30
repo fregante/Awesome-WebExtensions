@@ -64,6 +64,7 @@ Apps that help you manage your extensions.
 - [webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) - A Webpack plugin to automatically reload browser extensions during development.
 - [webpack-target-webextension](https://github.com/awesome-webextension/webpack-target-webextension) - Adds code-splitting support to WebExtensions build with Webpack.
 - [Extension.js](https://github.com/cezaraugusto/extension.js) - Plug-and-play, zero-config, cross-browser extension development tool.
+- [extenshi](https://github.com/MaximStone/extenshi-io) - Pre-publish security scanner and cross-store publisher (CLI + GitHub Actions) that flags permission, policy and dependency risks before you ship to Chrome, Firefox and Edge.
 
 ## Testing
 
