@@ -73,6 +73,7 @@ Apps that help you manage your extensions.
 - [webextensions-api-fake](https://github.com/stoically/webextensions-api-fake) - In-memory WebExtensions API Fake Implementation (includes TypeScript types).
 - [webextensions-api-mock](https://github.com/stoically/webextensions-api-mock) - WebExtensions API as sinon stubs (includes TypeScript types).
 - [webextensions-schema](https://github.com/stoically/webextensions-schema) - Programmatically consume the WebExtensions Schema JSON files.
+- [cws-gate](https://github.com/mordiaky/cws-gate) - Scan a local unpacked Chrome extension for common Manifest V3 / Web Store submission issues, as a CLI or GitHub Action. Zero network access, zero dependencies.
 
 ## Boilerplates
 
