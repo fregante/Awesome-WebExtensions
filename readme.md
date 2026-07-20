@@ -73,6 +73,7 @@ Apps that help you manage your extensions.
 - [webextensions-api-fake](https://github.com/stoically/webextensions-api-fake) - In-memory WebExtensions API Fake Implementation (includes TypeScript types).
 - [webextensions-api-mock](https://github.com/stoically/webextensions-api-mock) - WebExtensions API as sinon stubs (includes TypeScript types).
 - [webextensions-schema](https://github.com/stoically/webextensions-schema) - Programmatically consume the WebExtensions Schema JSON files.
+- [mv3-doctor](https://github.com/n0liu/mv3-doctor) - Diagnose Manifest V3 pitfalls (service-worker lifecycle, leftover MV2 keys, remote code, eval) in a built extension.
 
 ## Boilerplates
 
