@@ -80,6 +80,7 @@ Apps that help you manage your extensions.
 - [create-webextension](https://github.com/rpl/create-webextension) - Yarn WebExtension generator.
 - [generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 - [WXT](https://github.com/wxt-dev/wxt) - Next-gen framework for developing web extensions.
+- [Extension.js templates](https://github.com/extension-js/examples) - Starters for React, Vue, Svelte, Preact and TypeScript that run with one command.
 
 ## Sample Extensions
 
