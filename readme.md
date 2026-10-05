@@ -46,6 +46,7 @@ Code meant become part of the extension.
 - [redux-webext](https://github.com/ivantsov/redux-webext) - Uses Redux for managing the state of your WebExtension.
 - [ExtPay](https://github.com/Glench/ExtPay) - Take secure payments in extensions without needing to run a server backend.
 - [inject-react-anywhere](https://github.com/OlegWock/inject-react-anywhere) - Inject React components into 3rd party sites with convenient API and styles isolation.
+- [Toolaby](https://toolaby.app) - Take payments in extensions with licences, subscriptions and free trials, paid into your own Stripe account.
 - [More…](https://github.com/fregante/webext-fun)
 
 ## Tools
